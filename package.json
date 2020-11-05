@@ -1,0 +1,22 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": null,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "axios": "0.21.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "fetchtable",
+  "version": "0.0.38",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

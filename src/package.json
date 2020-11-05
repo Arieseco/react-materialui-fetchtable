@@ -1,0 +1,15 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "axios": "0.21.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "fetchtable"
+}
